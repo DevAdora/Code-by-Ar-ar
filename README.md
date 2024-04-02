@@ -3,7 +3,7 @@
 
 <h3 align = 'center'>Hey There 👋, I'm Rai M. Reyes Jr.</h3>
 
-<p align = 'center'>Aspiring Software Developer and Web Designer</p>
+<h5 align = 'center'>Aspiring Software Developer and Web Designer ✨</h5>
 
 <p align = 'center'> 
    <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
@@ -21,7 +21,9 @@
 </p>
 <br>
 <br>
-<p align='center'>LANGUAGES USED <br>
+<h5 align='center'> LANGUAGES </h5>
+<br>
+<p align='center'> 
 <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,7 +37,7 @@
 
 
  <p align='center'>
- 💬 - You can message me through: raireyesjr@gmail.com
+ 💬 - You can message me through:<a href=""> raireyesjr@gmail.com ></a>
   </p>
 
 
