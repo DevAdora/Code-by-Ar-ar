@@ -1,4 +1,44 @@
-### Hi there 👋
+https://img.shields.io/badge/:badgeContent
+
+
+
+<h3 align = 'center'>Hey There 👋, I'm Rai M. Reyes Jr.</h3>
+
+<p align = 'center'>Aspiring Software Developer and Web Designer</p>
+
+<p align = 'center'> 
+   <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rai"/> 
+   </a>
+  <a href="https://twitter.com/Aur4e_" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+   <a href="https://www.instagram.com/mkdnightr8i_n/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Rai" />
+   </a>
+   <a href="https://www.facebook.com/2r.reyes" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Rai"  />
+   </a>
+</p>
+<br>
+<br>
+<p align='center'>LANGUAGES I'M USING</p>
+https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+<br>
+<br>
+
+
+ <p>
+  You can message me through: raireyesjr@gmail.com<br/><br/>
+   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </p>
+
 
 <!--
 **DevAdora/DevAdora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
