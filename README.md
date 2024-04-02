@@ -21,7 +21,7 @@
 </p>
 <br>
 <br>
-<p align='center'>LANGUAGES I'M USING</p>
+<p align='center'>LANGUAGES I'M USING
 <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,12 +29,13 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+   </p>
 <br>
 <br>
 
 
- <p>
-  You can message me through: raireyesjr@gmail.com<br/><br/>
+ <p align='center'>
+  You can message me through: raireyesjr@gmail.com
    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </p>
 
