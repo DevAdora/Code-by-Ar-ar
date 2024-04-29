@@ -1,9 +1,11 @@
 
 
 
-<h3 align = 'center'>Hey There 👋, I'm Rai M. Reyes Jr.</h3>
+<h3 align = 'center'>Hey There 👋</h3>
+<h1 align = 'center'> I'm Rai M. Reyes Jr.</h1>
 
-<h5 align = 'center'>Aspiring Software Developer and Web Designer ✨</h5>
+<h5 align = 'center'>Aspiring </h5> 
+<h2>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
 
 <p align = 'center'> 
    <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
