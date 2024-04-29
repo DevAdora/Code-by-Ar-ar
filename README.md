@@ -8,7 +8,7 @@
 <h2 align = 'center'>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
    <h3 align = 'center'> Socials</h3>
 
-<p align = 'center'>
+<p align = 'center' border = '1px solid black'>
    <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rai"/> 
    </a>
