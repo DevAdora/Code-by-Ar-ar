@@ -5,9 +5,9 @@
 <h1 align = 'center'> I'm Rai M. Reyes Jr.</h1>
 
 <h5 align = 'center'>Aspiring </h5> 
-<h2>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
-
-<p align = 'center'> 
+<h2 align = 'center'>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
+<p align = 'center' border = '1px solid black'>
+   <h3 align = 'center'> Socials</h3>
    <a href="https://www.linkedin.com/in/rai-reyes-6bb906272/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rai"/> 
    </a>
