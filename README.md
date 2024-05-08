@@ -40,7 +40,7 @@
 
 
  <p align='center'>
- 💬 - You can message me through:<a href=""> raireyesjr@gmail.com ></a>
+ 💬 - You can message me through:<a href=""> raireyesjr@gmail.com</a>
   </p>
 
 
