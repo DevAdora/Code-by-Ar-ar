@@ -57,6 +57,10 @@
   </p>
 
 
+<p align = 'center'>
+![](./profile-3d-contrib/profile-green-animate.svg)
+</p>
+
 <!--
 **DevAdora/DevAdora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
