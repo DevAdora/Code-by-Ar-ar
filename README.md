@@ -1,8 +1,10 @@
 
 
 
-<h3 align = 'center'>Hey There 👋</h3>
-<h1 align = 'center'> I'm Rai M. Reyes Jr.</h1>
+<h3 align = 'left'>Hey There 👋</h3>
+<h1 align = 'left'> I'm Rai M. Reyes Jr.</h1>
+<div align='right'>![alt text](https://github.com/DevAdora/Code-by-Ar-ar/blob/main/LOGO (Desktop Wallpaper).png?raw=true)</div>
+
 
 <h5 align = 'center'>Aspiring </h5> 
 <h2 align = 'center'>Software Developer ✨| Web Developer ✨| Graphic Designer ✨</h2>
